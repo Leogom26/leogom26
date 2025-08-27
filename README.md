@@ -31,22 +31,14 @@ Sempre buscando melhorar a forma como programamos, aplicando boas práticas e us
 ### 🌐 Onde me encontrar
 
 <div>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="http://leogomweb.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
-  <a href="https://instagram.com/SEU-INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:SEU-EMAIL@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://discord.gg/SEU-DISCORD" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <a href="https://youtube.com/@SEU-YOUTUBE" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <a href="mailto:leogomdesenvolvimento@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
+
 
 ---
 
