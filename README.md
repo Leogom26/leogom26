@@ -54,8 +54,8 @@ Sempre buscando melhorar a forma como programamos, aplicando boas práticas e us
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leogom26&show_icons=true&theme=tokyonight/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leogom26&layout=compact&langs_count=10&theme=tokyonight"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leogom26&show_icons=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700" />
+
 
 
 ---
