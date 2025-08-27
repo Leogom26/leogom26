@@ -61,7 +61,7 @@ Sempre buscando melhorar a forma como programamos, aplicando boas práticas e us
 
 ### 🚀 Projetos em destaque
 
-- [🔗 Nome do Projeto 1](https://github.com/SEU-USUARIO-GITHUB/NOME-DO-REPOSITORIO)
+- 🔗 Board Tarefas (https://github.com/Leogom26/boardTarefa)
 - [🔗 Nome do Projeto 2](https://github.com/SEU-USUARIO-GITHUB/NOME-DO-REPOSITORIO)
 - [🔗 Nome do Projeto 3](https://github.com/SEU-USUARIO-GITHUB/NOME-DO-REPOSITORIO)
 
