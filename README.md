@@ -21,10 +21,12 @@ Sempre buscando melhorar a forma como programamos, aplicando boas práticas e us
   <img align="center" alt="Leo-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Leo-Nest" height="30" width="40" src="https://nestjs.com/img/logo-small.svg">
   <img align="center" alt="Leo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Leo-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Leo-Prisma" height="30" width="40" src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightSymbol.svg">
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
 
 ---
 
