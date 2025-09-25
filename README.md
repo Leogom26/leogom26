@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Leo Gomes
 
-Sou desenvolvedor **Full Stack**, apaixonado por tecnologia e aprendizado contínuo. Atuo no desenvolvimento **frontend e backend**, focado em construir aplicações web modernas, performáticas e escaláveis.
+Sou desenvolvedor **Full Stack Jr.**, apaixonado por tecnologia e aprendizado contínuo. Atuo no desenvolvimento **frontend e backend**, focado em construir aplicações web modernas, performáticas e escaláveis.
 
 💻 Minhas linguagens favoritas são **JavaScript** e **TypeScript**, utilizando os principais frameworks do mercado como:
 
