@@ -62,9 +62,10 @@ Sempre buscando melhorar a forma como programamos, aplicando boas práticas e us
 
 ---
 
-### 👁️ Contador de visitas no perfil
+### 👁️ Visitas no perfil
 
-<img align="center" src="https://komarev.com/ghpvc/?username=SEU-USUARIO-GITHUB&style=flat-square&color=blue" alt="Profile Views" />
+<img align="center" src="https://komarev.com/ghpvc/?username=leogom26&style=flat-square&color=blue" alt="Profile Views" />
+
 
 ---
 
