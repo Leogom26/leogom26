@@ -34,7 +34,7 @@ Sempre buscando melhorar a forma como programamos, aplicando boas práticas e us
   <a href="http://leogomweb.com.br/" target="_blank">
     <img src="https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
-  <a href="mailto:leogomdesenvolvimento@gmail.com" target="_blank">
+  <a href="mailto:contato@leogomweb.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
