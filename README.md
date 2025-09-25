@@ -59,7 +59,6 @@ Sempre buscando melhorar a forma como programamos, aplicando boas práticas e us
 - 🔗 Criptomoedas: https://github.com/Leogom26/cripto
 - 🔗 Portifolio: https://github.com/Leogom26/portifolio-site
 
-Adicione aqui os repositórios mais relevantes que você criou ou contribuiu.
 
 ---
 
