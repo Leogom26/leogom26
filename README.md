@@ -32,12 +32,13 @@ Sempre buscando melhorar a forma como programamos, aplicando boas práticas e us
 
 <div>
   <a href="http://leogomweb.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Site">
   </a>
   <a href="mailto:contato@leogomweb.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/E--mail-333333?style=for-the-badge&logo=minutemailer&logoColor=white" alt="E-mail">
   </a>
 </div>
+
 
 
 ---
