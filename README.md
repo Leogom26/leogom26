@@ -6,7 +6,8 @@ Sou desenvolvedor **Full Stack Jr.**, apaixonado por tecnologia e aprendizado co
 
 - **React.js**, **Next.js** (Frontend)
 - **NestJS**, **Express** (Backend)
-- **Prisma** (ORM e Banco de dados)
+- **Prisma**, **TypeOrm**, **KnexJS**... (ORM´s)
+- **Postegres**, **MongoDb**, **Mysql**... (Banco de dados)
 
 Sempre buscando melhorar a forma como programamos, aplicando boas práticas e usando bibliotecas que otimizam o desenvolvimento.
 
