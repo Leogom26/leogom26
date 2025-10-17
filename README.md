@@ -4,8 +4,8 @@ Sou desenvolvedor **Full Stack Jr.**, apaixonado por tecnologia e aprendizado co
 
 💻 Minhas linguagens favoritas são **JavaScript** e **TypeScript**, utilizando os principais frameworks do mercado como:
 
-- **React.js**, **Next.js** (Frontend)
-- **NestJS**, **Express** (Backend)
+- **React.js**, **Next.js** (Frontend-Javascript)
+- **NestJS**, **Express** (Backend-NodeJS)
 - **Prisma**, **TypeOrm**, **KnexJS**... (ORM´s)
 - **Postegres**, **MongoDb**, **Mysql**... (Banco de dados)
 
