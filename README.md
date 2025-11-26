@@ -32,10 +32,10 @@ Sempre buscando melhorar a forma como programamos, aplicando boas práticas e us
 ### 🌐 Onde me encontrar
 
 <div>
-  <a href="http://leogomweb.com.br/" target="_blank">
+  <a href="https://leogomesdev.com" target="_blank">
     <img src="https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Site">
   </a>
-  <a href="mailto:contato@leogomweb.com.br" target="_blank">
+  <a href="mailto:contato@leogomesdev.com" target="_blank">
     <img src="https://img.shields.io/badge/E--mail-333333?style=for-the-badge&logo=minutemailer&logoColor=white" alt="E-mail">
   </a>
 </div>
@@ -57,9 +57,20 @@ Sempre buscando melhorar a forma como programamos, aplicando boas práticas e us
 ### 🚀 Projetos em destaque
 
 - 🔗 Board Tarefas: https://github.com/Leogom26/boardTarefa
-- 🔗 Leogom Links: https://github.com/Leogom26/linktree/tree/main
+- Site: https://board-tarefa.vercel.app/
+
+- 🔗 Petshop: https://github.com/Leogom26/petshop
+- Site: https://petshop-tawny.vercel.app/
+
+- 🔗 Restaurante: https://github.com/Leogom26/restaurante-leogom
+- Site: https://restaurante-rho-orcin.vercel.app/
+
 - 🔗 Criptomoedas: https://github.com/Leogom26/cripto
-- 🔗 Portifolio: https://github.com/Leogom26/portifolio-site
+- Site: https://criptomoedas-omega.vercel.app/
+
+  
+- 🔗 Portifolio: https://leogomesdev.com
+
 
 
 ---
