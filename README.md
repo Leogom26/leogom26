@@ -47,8 +47,8 @@ Sempre buscando melhorar a forma como programamos, aplicando boas práticas e us
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://stats.fmacedo.com/api?username=leo-gomes-dev&show_icons=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700" />
-  <img height="180em" src="https://stats.fmacedo.com/api/top-langs/?username=leo-gomes-dev&layout=compact&langs_count=10&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leo-gomes-dev&show_icons=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-gomes-dev&layout=compact&langs_count=10&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700" />
 </div>
 
 
