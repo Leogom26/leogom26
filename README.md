@@ -1,17 +1,18 @@
-## 👋 Olá! Eu sou o Leo Gomes
+## 👋 Hi, I'm Leo Gomes
 
-"Desenvolvedor JavaScript **Full Stack** com experiência no desenvolvimento de projetos ponta a ponta **(front-end e back-end)** e comprometido com a evolução técnica contínua."
+**Full Stack JavaScript Developer**
 
-Sou focado em construir aplicações web modernas, performáticas e escaláveis.
+"Experienced in building end-to-end applications **(front-end and back-end)** with a strong commitment to continuous technical evolution."
+I focus on developing modern, high-performance, and scalable web applications.
 
-💻 Minhas linguagens favoritas são **JavaScript** e **TypeScript**, utilizando os principais frameworks do mercado como:
+## 💻 Tech Stack
+Languages: **JavaScript (ES6+), TypeScript**
+Frontend: **React.js, Next.js**
+Backend: **Node.js (NestJS, Express)**
+ORMs: **Prisma, TypeORM, Knex.js**
+Databases: **PostgreSQL, MongoDB, MySQL**
 
-- **React.js**, **Next.js** (Frontend-Javascript)
-- **NestJS**, **Express** (Backend-NodeJS)
-- **Prisma**, **TypeOrm**, **KnexJS**... (ORM´s)
-- **Postegres**, **MongoDb**, **Mysql**... (Banco de dados)
-
-Sempre buscando melhorar a forma como programamos, aplicando boas práticas e usando bibliotecas que otimizam o desenvolvimento.
+I am always looking to improve the way we code by applying best practices and leveraging libraries that optimize the development workflow.
 
 ---
 
