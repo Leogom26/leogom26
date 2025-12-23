@@ -16,7 +16,7 @@ I am always looking to improve the way we code by applying best practices and le
 
 ---
 
-### 🛠️ Tecnologias que utilizo
+### 🛠️ Technologies
 
 <div style="display: inline_block">
   <img align="center" alt="Leo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,7 +32,7 @@ I am always looking to improve the way we code by applying best practices and le
 
 ---
 
-### 🌐 Onde me encontrar
+### 🌐 Connect with me
 
 <div>
   <a href="https://leogomesdev.com" target="_blank">
