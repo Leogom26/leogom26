@@ -34,22 +34,10 @@ I am always looking to improve the way we code by applying best practices and le
 
 ### 🌐 Connect with me
 
-<div align="left">
-  <a href="https://leogomesdev.com" target="_blank">
-    <img src="img.shields.io" alt="Website">
-  </a>
-  <a href="www.linkedin.com" target="_blank">
-    <img src="img.shields.io" alt="LinkedIn">
-  </a>
-  <a href="www.instagram.com" target="_blank">
-    <img src="img.shields.io" alt="Instagram">
-  </a>
-  <a href="mailto:contato@leogomesdev.com" target="_blank">
-    <img src="img.shields.io" alt="Email">
-  </a>
-</div>
-
-
+[![Website](img.shields.io)](https://leogomesdev.com)
+[![LinkedIn](img.shields.io)](www.linkedin.com)
+[![Instagram](img.shields.io)](www.instagram.com)
+[![Email](img.shields.io)](mailto:contato@leogomesdev.com)
 
 
 ---
