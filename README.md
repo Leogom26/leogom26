@@ -6,11 +6,11 @@
 I focus on developing modern, high-performance, and scalable web applications.
 
 ## 💻 Tech Stack
-Languages: **JavaScript (ES6+), TypeScript**
-Frontend: **React.js, Next.js**
-Backend: **Node.js (NestJS, Express)**
-ORMs: **Prisma, TypeORM, Knex.js**
-Databases: **PostgreSQL, MongoDB, MySQL**
+- Languages: **JavaScript (ES6+), TypeScript**
+- Frontend: **React.js, Next.js**
+- Backend: **Node.js (NestJS, Express)**
+- ORMs: **Prisma, TypeORM, Knex.js**
+- Databases: **PostgreSQL, MongoDB, MySQL**
 
 I am always looking to improve the way we code by applying best practices and leveraging libraries that optimize the development workflow.
 
