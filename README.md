@@ -56,17 +56,17 @@ I am always looking to improve the way we code by applying best practices and le
 ### 🚀 Projetos em destaque
 
 - 🔗 Board Tarefas: https://github.com/Leogom26/boardTarefa
-- Site: https://board-tarefa.vercel.app/
---
+Site: https://board-tarefa.vercel.app/
+
 - 🔗 Petshop: https://github.com/Leogom26/petshop
-- Site: https://petshop-tawny.vercel.app/
---
+Site: https://petshop-tawny.vercel.app/
+
 - 🔗 Restaurante: https://github.com/Leogom26/restaurante-leogom
-- Site: https://restaurante-rho-orcin.vercel.app/
---
+Site: https://restaurante-rho-orcin.vercel.app/
+
 - 🔗 Criptomoedas: https://github.com/Leogom26/cripto
-- Site: https://criptomoedas-omega.vercel.app/
--- 
+Site: https://criptomoedas-omega.vercel.app/
+
 - 🔗 Portifolio: https://leogomesdev.com
 
 
