@@ -32,12 +32,13 @@ I am always looking to improve the way we code by applying best practices and le
 
 ---
 
-### 🌐 Connect with me
+## 🔗 Connect with me
 
-[![Website](img.shields.io)](https://leogomesdev.com)
-[![LinkedIn](img.shields.io)](www.linkedin.com)
-[![Instagram](img.shields.io)](www.instagram.com)
-[![Email](img.shields.io)](mailto:contato@leogomesdev.com)
+*   🌐 **Website:** [leogomesdev.com](https://leogomesdev.com)
+*   💼 **LinkedIn:** [leo-gomes-dev](www.linkedin.com)
+*   📸 **Instagram:** [@leogomes_dev](www.instagram.com)
+*   📧 **Email:** [contato@leogomesdev.com](mailto:contato@leogomesdev.com)
+
 
 
 ---
