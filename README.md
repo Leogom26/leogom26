@@ -35,8 +35,8 @@ I am always looking to improve the way we code by applying best practices and le
 ## 🔗 Connect with me
 
 *   🌐 **Website:** [leogomesdev.com](https://leogomesdev.com)
-*   💼 **LinkedIn:** [leo-gomes-dev](www.linkedin.com)
-*   📸 **Instagram:** [@leogomes_dev](www.instagram.com)
+*   💼 **LinkedIn:** [leo-gomes-dev](https://www.linkedin.com/in/leo-gomes-dev)
+*   📸 **Instagram:** [@leogomes_dev](https://www.instagram.com/leogomes_dev)
 *   📧 **Email:** [contato@leogomesdev.com](mailto:contato@leogomesdev.com)
 
 
